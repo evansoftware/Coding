@@ -1,3 +1,3 @@
-# Turnitin
+# Coding
 
-Please find my code files for the challenge in this repository.
+Please find my code files in this repository.
